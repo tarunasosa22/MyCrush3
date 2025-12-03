@@ -1,4 +1,8 @@
 {
   "name": "MyCrush3",
-  "displayName": "MyCrush3"
+  "displayName": "MyCrush3",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8837381907644162~1100191224",
+    "ios_app_id": "ca-app-pub-3940256099942544~1458002511"
+  }
 }
