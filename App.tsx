@@ -13,7 +13,6 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import IMAGES from './src/assets/images';
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
@@ -21,8 +20,7 @@ function App() {
   return (
     <View style={styles.container}>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      {/* <NewAppScreen templateFileName="App.tsx" /> */}
-      <Image source={IMAGES.appIconImage} />
+      <NewAppScreen templateFileName="App.tsx" />
     </View>
   );
 }
