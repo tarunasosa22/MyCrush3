@@ -9,23 +9,35 @@
 /* Begin PBXBuildFile section */
 		04CEFAFE2EE18112003189DA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04CEFAFD2EE18112003189DA /* GoogleService-Info.plist */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		178E8704315E46E495EDBD8D /* Baloo2-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37D463F1D29B472B8F77B476 /* Baloo2-SemiBold.ttf */; };
+		1E96411AE088466DA8D403E5 /* FjallaOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BEEDB30870542A69BF488FB /* FjallaOne-Regular.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		940DC73270234EB37219632F /* Pods_MyCrush3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1062145672BD84DAEF99E267 /* Pods_MyCrush3.framework */; };
+		AB6DB6049B0E4252B7732C6F /* Baloo2-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 617176F99C6442F3BD996BD1 /* Baloo2-ExtraBold.ttf */; };
+		C2614C57660A4B00937156F8 /* Baloo2-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09D8C5CA0CF0435A925A7D47 /* Baloo2-Medium.ttf */; };
 		CFFBBF32EAD857FECB99C6D8 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		F9E7D6AF45014351BD2564CC /* Baloo2-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38825E57584646E2AE811962 /* Baloo2-Regular.ttf */; };
+		FD509FCB0A6B43E3A2006C5B /* Baloo2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E55D2502A4E142BBA2CA7A05 /* Baloo2-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		04CEFAFD2EE18112003189DA /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		09D8C5CA0CF0435A925A7D47 /* Baloo2-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Baloo2-Medium.ttf"; path = "../src/assets/fonts/Baloo2-Medium.ttf"; sourceTree = "<group>"; };
 		1062145672BD84DAEF99E267 /* Pods_MyCrush3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCrush3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* MyCrush3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCrush3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MyCrush3/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyCrush3/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MyCrush3/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		37D463F1D29B472B8F77B476 /* Baloo2-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Baloo2-SemiBold.ttf"; path = "../src/assets/fonts/Baloo2-SemiBold.ttf"; sourceTree = "<group>"; };
+		38825E57584646E2AE811962 /* Baloo2-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Baloo2-Regular.ttf"; path = "../src/assets/fonts/Baloo2-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-MyCrush3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCrush3.debug.xcconfig"; path = "Target Support Files/Pods-MyCrush3/Pods-MyCrush3.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-MyCrush3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCrush3.release.xcconfig"; path = "Target Support Files/Pods-MyCrush3/Pods-MyCrush3.release.xcconfig"; sourceTree = "<group>"; };
+		617176F99C6442F3BD996BD1 /* Baloo2-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Baloo2-ExtraBold.ttf"; path = "../src/assets/fonts/Baloo2-ExtraBold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = MyCrush3/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MyCrush3/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9BEEDB30870542A69BF488FB /* FjallaOne-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FjallaOne-Regular.ttf"; path = "../src/assets/fonts/FjallaOne-Regular.ttf"; sourceTree = "<group>"; };
+		E55D2502A4E142BBA2CA7A05 /* Baloo2-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Baloo2-Bold.ttf"; path = "../src/assets/fonts/Baloo2-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -78,6 +90,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				85D708360C8B47998FD8F3C5 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -90,6 +103,20 @@
 				13B07F961A680F5B00A75B9A /* MyCrush3.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		85D708360C8B47998FD8F3C5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E55D2502A4E142BBA2CA7A05 /* Baloo2-Bold.ttf */,
+				617176F99C6442F3BD996BD1 /* Baloo2-ExtraBold.ttf */,
+				09D8C5CA0CF0435A925A7D47 /* Baloo2-Medium.ttf */,
+				38825E57584646E2AE811962 /* Baloo2-Regular.ttf */,
+				37D463F1D29B472B8F77B476 /* Baloo2-SemiBold.ttf */,
+				9BEEDB30870542A69BF488FB /* FjallaOne-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -168,6 +195,12 @@
 				04CEFAFE2EE18112003189DA /* GoogleService-Info.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				CFFBBF32EAD857FECB99C6D8 /* PrivacyInfo.xcprivacy in Resources */,
+				FD509FCB0A6B43E3A2006C5B /* Baloo2-Bold.ttf in Resources */,
+				AB6DB6049B0E4252B7732C6F /* Baloo2-ExtraBold.ttf in Resources */,
+				C2614C57660A4B00937156F8 /* Baloo2-Medium.ttf in Resources */,
+				F9E7D6AF45014351BD2564CC /* Baloo2-Regular.ttf in Resources */,
+				178E8704315E46E495EDBD8D /* Baloo2-SemiBold.ttf in Resources */,
+				1E96411AE088466DA8D403E5 /* FjallaOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
