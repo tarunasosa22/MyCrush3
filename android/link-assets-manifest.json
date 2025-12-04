@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Baloo2-Bold.ttf",
+      "sha1": "6becf494f73107725e513ed50d968af2a516d6d0"
+    },
+    {
+      "path": "src/assets/fonts/Baloo2-ExtraBold.ttf",
+      "sha1": "8cdfa61658b0420aa049c30f1f75c3b6c2d5b5d9"
+    },
+    {
+      "path": "src/assets/fonts/Baloo2-Medium.ttf",
+      "sha1": "18a8e788f54fa7ae9219fff17740f9a210f252e5"
+    },
+    {
+      "path": "src/assets/fonts/Baloo2-Regular.ttf",
+      "sha1": "12e9216e36c56fbeac1cb3c5769b9028b8e37a49"
+    },
+    {
+      "path": "src/assets/fonts/Baloo2-SemiBold.ttf",
+      "sha1": "a5277ff528b30c11c2610cae3343e0a101d9f1af"
+    },
+    {
+      "path": "src/assets/fonts/FjallaOne-Regular.ttf",
+      "sha1": "2dfd63b14b10ed99b2fe094f37494c2dee5f6f9f"
+    }
+  ]
+}
