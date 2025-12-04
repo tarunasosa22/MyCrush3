@@ -1,6 +1,8 @@
 apply plugin: "com.android.application"
 apply plugin: "org.jetbrains.kotlin.android"
 apply plugin: "com.facebook.react"
+apply plugin: 'com.google.firebase.crashlytics'
+apply plugin: 'com.google.gms.google-services'
 
 /**
  * This is the configuration block to customize your React Native Android app.
@@ -52,6 +54,9 @@ react {
 
     /* Autolinking */
     autolinkLibrariesWithApp()
+     project.ext.react = [
+            enableHermes: true  // should be true
+    ]
 }
 
 /**
@@ -111,6 +116,10 @@ android {
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
+    implementation(platform("com.google.firebase:firebase-bom:34.4.0"))
+    implementation("com.google.firebase:firebase-crashlytics-ndk")
+    implementation("com.google.firebase:firebase-analytics")
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01' //due to ArrayIndexOutOfBoundsExcept
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")

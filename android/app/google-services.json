@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981896298601",
+    "project_id": "aidatingnew",
+    "storage_bucket": "aidatingnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981896298601:android:380a83d0c76fde174d62f8",
+        "android_client_info": {
+          "package_name": "com.mycrush3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnU3UcemriMvDCAAHNjEeAnnPIEHRKRqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
